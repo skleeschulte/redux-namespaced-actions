@@ -1,0 +1,20 @@
+{
+  "name": "redux-namespaced-actions",
+  "version": "0.1.0",
+  "description": "Wrapper for redux-actions to easily add namespaces to action types.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skleeschulte/redux-namespaced-actions.git"
+  },
+  "keywords": [
+    "redux",
+    "actions",
+    "namespace"
+  ],
+  "author": "Stefan Kleeschulte",
+  "license": "MIT",
+  "peerDependencies": {
+    "redux-actions": ">=0.3 <1"
+  }
+}
